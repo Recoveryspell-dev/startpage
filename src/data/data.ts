@@ -34,10 +34,6 @@ export const links: linkGroup[] = [
         label: "DevDocs",
         value: "https://devdocs.io",
       },
-      {
-        label: "Vercel",
-        value: "https://vercel.com/",
-      },
     ],
   },
   {
@@ -61,8 +57,8 @@ export const links: linkGroup[] = [
     title: "Crypto",
     links: [
       {
-        label: "Coinmarketcap",
-        value: "https://coinmarketcap.com/",
+        label: "Coingecko",
+        value: "https://www.coingecko.com/",
       },
       {
         label: "Kraken",
